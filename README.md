@@ -1,3 +1,30 @@
+# Task Management Dashboard
+
+A React-Redux application to manage tasks effectively. This project demonstrates CRUD operations, task filtering, and responsive UI design.
+
+## Features
+- Add, edit, and delete tasks
+- Filter tasks (All, Completed, Pending, Overdue)
+- Mark tasks as completed
+- Responsive design (Material-UI)
+
+## Technology Stack
+- React
+- Redux Toolkit
+- Material-UI
+
+## Prerequisites
+- Node.js installed ([Download here](https://nodejs.org/))
+- Git installed ([Download here](https://git-scm.com/downloads))
+
+## Setup and Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/task-dashboard.git
+   cd task-dashboard
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
